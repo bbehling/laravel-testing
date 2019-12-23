@@ -1,4 +1,4 @@
-## Install Laravel Mac
+# Install Laravel Mac
 
 1. Install Virtual Box 6.0
    https://www.virtualbox.org/wiki/Download_Old_Builds
